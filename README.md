@@ -1,4 +1,4 @@
-# DWES Trabajo Primer Trimestre
+# DWES Proyecto Primer Trimestre
 
 Este es el espacio para el trabajo del primer trimestre de la asignatura de Desarrollo Web en Entorno Servidor.
 
